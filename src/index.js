@@ -8,11 +8,7 @@ ReactDOM.render(
   // <React.StrictMode>
   //   <App />
   // </React.StrictMode>,
-  <h1>Wingardium Leviosa!!</h1>,
-  <br></br>,
-  <h2>Wingardium Leviosa!!</h2>,
-  <br></br>,
-  <h3>Wingardium Leviosa!!</h3>,
+  <h1>Wingardium Leviosa!!...Corono Flew away</h1>,
   document.getElementById('root')
 );
 
